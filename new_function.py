@@ -1,3 +1,1 @@
-sum = 4 + 3
-
-print(sum)
+print("this is with visual studio code")
